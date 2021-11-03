@@ -1,5 +1,32 @@
 * {
     margin: 0;
     padding: 0;
+    list-style: none;
     box-sizing: border-box;
+}
+
+img {
+    width: 500px;
+    height: 300px;
+}
+
+.img-strat {
+    border: 2px solid green;
+}
+
+#img-master {
+    border: 3px dashed gold;
+}
+
+.relative {
+    margin-left: 35px;
+    background: #9cdbff;
+    width: 1000px;
+    height: 1000px;
+}
+
+.absolute{
+    background: aquamarine;
+    width: 100px;
+    height: 100px;
 }
